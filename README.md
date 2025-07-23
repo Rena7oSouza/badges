@@ -1,6 +1,7 @@
 ## 🚀 Technologies and Tools
 
-🖥️ Languages & Frameworks
+
+### 🖥️ Languages & Frameworks
 | Badge                                  | Badge URL                                                                                                          |
 |--------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)           | https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54                           |
@@ -10,7 +11,8 @@
 | [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)                    | https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white                               |
 | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white                       |
 
-📚 Python Libraries
+
+### 📚 Python Libraries
 | Badge                                  | Badge URL                                                                                                          |
 |--------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-4B0082?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/BeautifulSoup4-4B0082?style=for-the-badge&logo=python&logoColor=white) | https://img.shields.io/badge/BeautifulSoup4-4B0082?style=for-the-badge&logo=python&logoColor=white                   |
@@ -23,7 +25,8 @@
 | [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)    | https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white                       |
 | [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white               |
 
-🤖 AI / Machine Learning
+
+### 🤖 AI / Machine Learning
 | Badge                                  | Badge URL                                                                                                          |
 |--------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [![AI](https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=python&logoColor=white)                        | https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=python&logoColor=white                                |
@@ -31,7 +34,8 @@
 | [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white                   |
 | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)          | https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white                          |
 
-🔧 Automation & CI/CD
+
+### 🔧 Automation & CI/CD
 | Badge                                  | Badge URL                                                                                                          |
 |--------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [![Automation](https://img.shields.io/badge/Automation-28A745?style=for-the-badge&logo=githubactions&logoColor=white)](https://img.shields.io/badge/Automation-28A745?style=for-the-badge&logo=githubactions&logoColor=white) | https://img.shields.io/badge/Automation-28A745?style=for-the-badge&logo=githubactions&logoColor=white                 |
@@ -39,13 +43,14 @@
 | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)               | https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white                             |
 | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                               | https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white                                   |
 
-🗃️ Databases
+
+### 🗃️ Databases
 | Badge                                  | Badge URL                                                                                                          |
 |--------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white                   |
 | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)                  | https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white                             |
 
-💻 Others
+
 ### 💻 Others
 
 | Badge | Badge URL |
